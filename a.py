@@ -1,1 +1,3 @@
 print(moshin)
+print(hellow)
+    
